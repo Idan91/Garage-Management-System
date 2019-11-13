@@ -1,0 +1,6 @@
+/Users/Idan/Documents/College/שנה ב/סמסטר ב/C#/עבודות בית/DN_HIT_2019B_Ex03/FINAL/B19 Ex03 TomGalOr 308491448 IdanRam 203315098/Ex03.GarageLogic/bin/Debug/Ex03.GarageLogic.dll.config
+/Users/Idan/Documents/College/שנה ב/סמסטר ב/C#/עבודות בית/DN_HIT_2019B_Ex03/FINAL/B19 Ex03 TomGalOr 308491448 IdanRam 203315098/Ex03.GarageLogic/bin/Debug/Ex03.GarageLogic.dll
+/Users/Idan/Documents/College/שנה ב/סמסטר ב/C#/עבודות בית/DN_HIT_2019B_Ex03/FINAL/B19 Ex03 TomGalOr 308491448 IdanRam 203315098/Ex03.GarageLogic/bin/Debug/Ex03.GarageLogic.pdb
+/Users/Idan/Documents/College/שנה ב/סמסטר ב/C#/עבודות בית/DN_HIT_2019B_Ex03/FINAL/B19 Ex03 TomGalOr 308491448 IdanRam 203315098/Ex03.GarageLogic/obj/Debug/Ex03.GarageLogic.dll
+/Users/Idan/Documents/College/שנה ב/סמסטר ב/C#/עבודות בית/DN_HIT_2019B_Ex03/FINAL/B19 Ex03 TomGalOr 308491448 IdanRam 203315098/Ex03.GarageLogic/obj/Debug/Ex03.GarageLogic.pdb
+/Users/Idan/Documents/College/שנה ב/סמסטר ב/C#/עבודות בית/DN_HIT_2019B_Ex03/FINAL/B19 Ex03 TomGalOr 308491448 IdanRam 203315098/Ex03.GarageLogic/obj/Debug/Ex03.GarageLogic.csprojAssemblyReference.cache
